@@ -1,20 +1,8 @@
 # vue-cli-plugin-vuetify-cli
 > A Vue CLI 3 Plugin for scaffolding Vuetify application components, directives, mixins and views.
 
-### 💿 Install
-
-```bash
-vue install vuetify-cli
-```
-
-### 🚀 Usage
-After installation, you should have 4 new scripts in your `package.json` file. These will take you through various prompts that will scaffold pre-made templates.
-
---Still under construction--
-
-### 🚙 Roadmap
-- [ ] Allow customization of generated templates
-- [ ] Allow customization of directory structures used
+### ⚠ Archived
+This package has been moved to the main [vue-cli-plugins](https://github.com/vuetifyjs/vue-cli-plugins/) repository.
 
 ### 💪 Supporting Vuetify
 <p>Vuetify is an open source MIT project that has been made possible due to the generous contributions by <a href="https://github.com/vuetifyjs/vuetify/blob/dev/BACKERS.md">community backers</a>. If you are interested in supporting this project, please consider:</p>
